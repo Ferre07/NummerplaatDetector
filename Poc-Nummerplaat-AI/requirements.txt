@@ -1,2 +1,4 @@
-tensorflow
 streamlit
+tensorflow
+pillow
+numpy
